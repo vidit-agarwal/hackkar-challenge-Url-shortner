@@ -1,0 +1,20 @@
+.app {
+  text-align: center;
+}
+
+.app__function {
+  margin: 1rem auto;
+  padding-top: 1rem;
+  width: 50%;
+  border: 0.5rem solid whitesmoke;
+}
+
+.app__function-input {
+  width: 30%;
+}
+
+.app__function-result {
+  background: whitesmoke;
+  padding: 0.5rem;
+  margin-top: 1rem;
+}
