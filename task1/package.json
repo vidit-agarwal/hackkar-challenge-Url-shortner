@@ -1,0 +1,13 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "hackकर",
+  "private": true,
+  "scripts": {
+    "test": "jest || true"
+  },
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
