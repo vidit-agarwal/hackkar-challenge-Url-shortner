@@ -2,7 +2,7 @@
 
 ## Description
 
-To complete this task, you'll need to add code to contact the API to fetch responses, and update the React component with the result returned by the API. All of your code should go into `src/App.js` - the main application component. There is additional documentation in-line to get you up to speed if any of this is unfamiliar.
+To complete this task, I'll need to add code to contact the API to fetch responses, and update the React component with the result returned by the API. All of  code should go into `src/App.js` - the main application component. There is additional documentation in-line to get you up to speed if any of this is unfamiliar.
 
 Do not modify `package.json` or introduce additional modules. Only Javascript DOM methods should be used to complete this task.
 
